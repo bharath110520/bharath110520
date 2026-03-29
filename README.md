@@ -15,4 +15,4 @@
 - Joomla GSoC Contributions (AJAX Backend)
 
 📫 Reach me:
-- LinkedIn: [your link]
+- LinkedIn: https://www.linkedin.com/in/bharath-sankara-lingam-02975b387/
