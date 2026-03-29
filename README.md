@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bharath 👋
 
-<!--
-**bharath110520/bharath110520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | Open Source Contributor  
 
-Here are some ideas to get you started:
+🚀 Projects:
+- AI Mock Interview Platform (FastAPI + AI)
+- HR Automation Dashboard (React + Backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills:
+- Python, JavaScript, PHP
+- API Development
+- Backend Systems
+
+🌱 Currently working on:
+- Joomla GSoC Contributions (AJAX Backend)
+
+📫 Reach me:
+- LinkedIn: [your link]
